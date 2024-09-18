@@ -1,12 +1,6 @@
-# ExampleRepository
-An example repository with the necessary files each project should have.
-This includes:
-* Code Files
-* Schematics
-* PCB Designs
-* Photos of your device
-* 3D Models of enclosures and other parts
-* Data you collected with your device
+# Suspension Displacement
+
+ 
 
 ## Features
 
