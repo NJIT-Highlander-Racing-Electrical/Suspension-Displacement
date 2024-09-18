@@ -1,14 +1,9 @@
 # Suspension Displacement
 
- 
+Displacement sensors on each shock would enable us to determine how much each shock is being compressed while driving the car.
 
-## Features
+## Goals
 
-* List some features here that your project includes
-* This could be data outputs from it, math conversions that it does, etc
-
-## Hardware
-
-* List devices that your subsystem will use
-* Microcontrollers, sensors, etc
-* Every device will need a CAN-Bus and 5V voltage regulator, but this can happen towards the end of the design process
+* Determine what type of sensor is best to determine dislpacement
+* Determine most afforable option
+* Four sensors is ideal, but if the cost is too high, but two sensors would be the bare minimum
