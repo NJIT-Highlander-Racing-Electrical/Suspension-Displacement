@@ -1,12 +1,11 @@
 # Suspension Displacement
 
 Displacement sensors on each shock would enable us to determine how much each shock is being compressed while driving the car.
+Ideally, this system is wired into the [CVT Tachometer System](https://github.com/NJIT-Highlander-Racing-Electrical/CVT-Tachometer) for data processing.
 
-## Goals
+## Hardware
 
-* Determine what type of sensor is best to determine displacement
-* Determine most afforable option
-* Four sensors is ideal, but if the cost is too high, two sensors would be the bare minimum
+Linear sensors that give an output voltage proportional to their displacement
 
 ## Specs
 
@@ -15,3 +14,4 @@ Displacement sensors on each shock would enable us to determine how much each sh
 
 * Shock is 8" fully compressed and 16" fully extended
 * So, sensor need to be able to have at least 8" of travel
+* Or, we need to have a way to reduce the travel to a smaller sensing range
