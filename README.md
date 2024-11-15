@@ -1,7 +1,7 @@
 # Suspension Displacement
 
 Displacement sensors on each shock would enable us to determine how much each shock is being compressed while driving the car.
-Ideally, this system is wired into the [CVT Tachometer System](https://github.com/NJIT-Highlander-Racing-Electrical/CVT-Tachometer) for data processing.
+This system will be wired into the [Wheel Speed Sensors](https://github.com/NJIT-Highlander-Racing-Electrical/Wheel-Speed-Sensors) for data processing, so for code and 3D files, check there.
 
 ## Hardware
 
